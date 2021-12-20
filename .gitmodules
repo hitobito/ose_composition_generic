@@ -5,4 +5,4 @@
 [submodule "hitobito_generic"]
 	path = hitobito_generic
 	url = https://github.com/hitobito/hitobito_generic
-	branch = feature/preview
+	branch = feature/dj-logs
