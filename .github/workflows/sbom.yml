@@ -156,7 +156,7 @@ jobs:
 
       - name: 'Push merged SBOM to dependency track'
         env:
-          PROJECT_NAME: hitobito-jubla
+          PROJECT_NAME: hitobito-generic
           PROJECT_VERSION: ${{ github.ref_name }}
         working-directory: hitobito
         run: |
